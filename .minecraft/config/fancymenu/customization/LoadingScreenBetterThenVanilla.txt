@@ -1,0 +1,166 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = true
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  baseheight = 1440
+  action = autoscale
+  basewidth = 2560
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 280
+  width = 720
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = a72d1fc4-2ece-48f0-87ee-e012914098031679824732980
+  y = 270
+  height = 180
+}
+
+customization {
+  custom_color_hex = #474A51
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = fc098810-3a1b-4176-abba-79bcacca7bf91679824732991
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 280
+  width = 720
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 12bcb8b6-2529-4894-a836-956483ec7af31679824732991
+  y = 594
+  height = 10
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = false
+  shadow = false
+  scale = 1.0
+  source = TIP:
+  text_border = 0
+  case_mode = upper
+  source_mode = direct
+  line_spacing = 1
+  x = -7
+  width = 34
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 0637a36c-ae62-4bb2-b855-a7d5467acea21679825013278
+  y = -172
+  alignment = left
+  base_color = #FFFF00
+  height = 14
+}
+
+customization {
+  advanced_height = 20
+  orientation = bottom-centered
+  basecolor = #ffffff
+  shadow = false
+  splashfilepath = config/fancymenu/SplashesRu.txt
+  rotation = 0.0
+  scale = 2.7
+  refresh = true
+  advanced_width = 600
+  bouncing = false
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if_not][req_id:a1219efb-1003-4a16-ab1c-dbeaeb72c3ad1681032050405] = en_us
+  vanilla-like = false
+  x = -299
+  actionid = 70a4c68c-86a1-4adf-9547-055bdf836ab21679825537408
+  action = addsplash
+  y = -156
+}
+
+customization {
+  advanced_height = 200
+  path = config/fancymenu/customguis/example.png
+  orientation = mid-centered
+  x = -174
+  width = 354
+  action = addtexture
+  actionid = e4874c46-bd0d-4f7d-994d-ba7e14b74a531679833897446
+  y = -111
+  advanced_width = 354
+  height = 200
+}
+
+customization {
+  orientation = element
+  basecolor = #ffffff
+  shadow = true
+  rotation = 0.0
+  scale = 2.0
+  refresh = false
+  bouncing = false
+  vanilla-like = false
+  orientation_element = e4874c46-bd0d-4f7d-994d-ba7e14b74a531679833897446
+  x = 121
+  actionid = 4a8a40ee-7c97-4457-a9fe-a4c7a54db9e71679835716631
+  action = addsplash
+  y = 143
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if_not][req_id:525f119e-4484-4817-8f9e-56f20a746a3b1681032050407] = en_us
+  text = Загружаем твоё приключение!
+}
+
+customization {
+  advanced_height = 20
+  orientation = top-left
+  basecolor = #ffffff
+  shadow = false
+  splashfilepath = config/fancymenu/SplashesEN.txt
+  rotation = 0.0
+  scale = 2.7
+  refresh = false
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:527b52c7-04f8-4b1c-88c5-05b60a83ecde1681032050407] = en_us
+  advanced_width = 600
+  bouncing = false
+  vanilla-like = false
+  x = 343
+  actionid = 16d9cccf-9042-4b69-a821-b97eece30f811679836522847
+  action = addsplash
+  y = 563
+}
+
+customization {
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:f929d0e7-4d65-4c4f-8d8a-58284081a4c31681032050407] = en_us
+  orientation = top-left
+  basecolor = #ffffff
+  shadow = false
+  rotation = 0.0
+  scale = 2.0
+  refresh = false
+  bouncing = false
+  vanilla-like = false
+  x = 588
+  actionid = fd56effb-b1b1-4f2e-8081-081f85531ff41679836807112
+  action = addsplash
+  y = 391
+  text = Loading your adventure!
+}
+
