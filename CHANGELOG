@@ -1,11 +1,57 @@
-# §aCreate: Evil Awake BETA 1.2.9§r
-### §bApril 13, 2023, 10:29 a.m.§r
+# §aCreate: Evil Awake 1.3§r
+### §bApril 17, 2023, 8:24 a.m.§r
 
 ## §nENGLISH§r:
-
-§l§e-§r Mod Tectonic replaced by Biomes O' Plenty
-
+§l§e-§rForge updated from 4.2.0 to 4.2.3
+§l§e-§rMods updated
+§l§e-§rMain menu changes
+    §a|§rThe changelog file is now in the repository on GitHub
+    §a|§rAdded button to go to Modrinth website
+§l§e-§rLoading screen changes
+    §a|§rCorrected the inscription under the logo
+§l§e-§rSome QOL mods
+    §a|§rChalk
+    §a|§rHealing Camfire
+    §a|§rNether Delight
+    §a|§rEnders Delight
+    §a|§rDelightful
+    §a|§rFast Leaf Decay
+§l§e-§r Optimization
+    §a|§rFerrite Core REPLACED BY Rhodium
+    §a|§rVault Patcher DELETED
+    §a|§rResource reloading screen deleted
+§l§e-§r Renewing the atmosphere
+    §a|§rDynamic Music Update
+         §c|§rArchitectury API
+    §a|§rAmbient Sounds
+         §c|§rCreative Core
+    §a|§rPresence Footsteps
+    §a|§rSound Physics Remastered
+    §a|§rIlluminations Forge
 
 ## §nRUSSIAN§r:
 
-§l§e-§r Мод Tectonic заменён на Biomes O' Plenty
+§l§e-§rForge обновлён с 4.2.0 до 4.2.3
+§l§e-§rОбновлены моды
+§l§e-§rИзменения главного меню
+    §a|§rФайл changelog теперь наводиться в репозитории на GitHub
+    §a|§rДобавлена кнопка для перехода на сайт Modrinth
+§l§e-§rНемного QOL модов
+    §a|§rChalk
+    §a|§rHealing Camfire
+    §a|§rNether Delight
+    §a|§rEnders Delight
+    §a|§rDelightful
+    §a|§rFast Leaf Decay
+§l§e-§rОптимизицая
+    §a|§rFerrite Core REPLACED BY Rhodium
+    §a|§rVault Patcher DELETED
+    §a|§rResource reloading screen deleted
+§l§e-§rОбновление атмосферы
+    §a|§rDynamic Music Update
+         §c|§rArchitectury API
+    §a|§rAmbient Sounds
+         §c|§rCreative Core
+    §a|§rPresence Footsteps
+    §a|§rSound Physics Remastered
+    §a|§rIlluminations Forge
