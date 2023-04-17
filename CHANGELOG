@@ -2,14 +2,15 @@
 ### §bApril 17, 2023, 8:24 a.m.§r
 
 ## §nENGLISH§r:
-§l§e-§rForge updated from 4.2.0 to 4.2.3
-§l§e-§rMods updated
-§l§e-§rMain menu changes
+
+§l§e-§r Forge updated from 4.2.0 to 4.2.3
+§l§e-§r Mods updated
+§l§e-§r Main menu changes
     §a|§rThe changelog file is now in the repository on GitHub
     §a|§rAdded button to go to Modrinth website
-§l§e-§rLoading screen changes
+§l§e-§r Loading screen changes
     §a|§rCorrected the inscription under the logo
-§l§e-§rSome QOL mods
+§l§e-§r Some QOL mods
     §a|§rChalk
     §a|§rHealing Camfire
     §a|§rNether Delight
@@ -31,9 +32,9 @@
 
 ## §nRUSSIAN§r:
 
-§l§e-§rForge обновлён с 4.2.0 до 4.2.3
-§l§e-§rОбновлены моды
-§l§e-§rИзменения главного меню
+§l§e-§r Forge обновлён с 4.2.0 до 4.2.3
+§l§e-§r Обновлены моды
+§l§e-§r Изменения главного меню
     §a|§rФайл changelog теперь наводиться в репозитории на GitHub
     §a|§rДобавлена кнопка для перехода на сайт Modrinth
 §l§e-§rНемного QOL модов
@@ -43,11 +44,11 @@
     §a|§rEnders Delight
     §a|§rDelightful
     §a|§rFast Leaf Decay
-§l§e-§rОптимизицая
+§l§e-§r Оптимизицая
     §a|§rFerrite Core REPLACED BY Rhodium
     §a|§rVault Patcher DELETED
     §a|§rResource reloading screen deleted
-§l§e-§rОбновление атмосферы
+§l§e-§r Обновление атмосферы
     §a|§rDynamic Music Update
          §c|§rArchitectury API
     §a|§rAmbient Sounds
