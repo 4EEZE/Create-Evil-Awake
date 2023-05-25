@@ -1,13 +1,13 @@
-# Create-Evil-Awake
-⚡Create-based modpack with combat mods and bosses!🔥
-
 ![https://i.imgur.com/9iUXESD.png](https://i.imgur.com/9iUXESD.png)
 
-# 🟠What is Create: Evil Awake?
+---
+
+![Imgur](https://i.imgur.com/wKyEN0J.png)
 
 Create: Evil Awake is a modpack based on Create and combat mods with bosses, unique gameplay and atmosphere, optimization and fast support.
 
-# 🟠Why Create: Evil Awake?
+![Imgur](https://i.imgur.com/yKYqMXK.png)
+
 
 Because we have:
 
@@ -35,156 +35,180 @@ Because we have:
 
 ---
 
-# 🤓Technical details🥱
+![Imgur](https://i.imgur.com/hzffWFM.png)
 
 <details>
 <summary>Mod list</summary>
 <br>
 <!-- We need a space between the <br> and the content -->
 
-**Total: 138 mods**
+**Total: 136 mods** *(The list of mods may change)*
 ---
-- jei-1.19.2-forge-11.6.0.1013
-- ItemBorders-1.19.1-1.2.0
-- integrated_api_forge-1.2.7+1.19.2
-- illuminations-forge-1.19.2-1.10.9.20
-- idas_forge-1.6.0+1.19.2
-- Iceberg-1.19.2-forge-1.1.4
-- Highlighter-1.19.1-1.1.4
-- healingcampfire-1.19.2-5.1
-- goprone-1.19-2.0.4
-- geckolib-forge-1.19-3.1.40
-- fm_audio_extension_forge_1.1.1-1_MC_1.19
-- flywheel-forge-1.19.2-0.6.8.a
-- firstperson-forge-2.2.2-mc1.19.2
-- Fastload-Reforged-2.6.9+1.19.2
-- FastLeafDecay-30
-- FarmersDelight-1.19-1.2.0
-- fancymenu_forge_2.14.3_MC_1.19-1.19.2
-- extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2
-- extendedflywheels-1.2.5-1.19.2-0.5.f
-- everycomp-1.19.2-2.3.3
-- entityculling-forge-1.6.1-mc1.19.2
-- Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0
-- endersdelight-1.19-1.0.2
-- EnchantWithMob-1.19.2-7.4.1.jar.lyGsLr"
-- EnchantWithMob-1.19.2-7.4.1
-- EnchantmentDescriptions-Forge-1.19.2-13.0.14
-- EasyMagic-v4.3.3-1.19.2-Forge
-- EasyAnvils-v4.0.10-1.19.2-Forge
-- dynmus-2.2.2+1.19.2-forge
-- dummmmmmy-1.19.2-1.7.1
-- Droplight-1.19.2-forge-1.0.6
-- drippyloadingscreen_forge_2.1.4_MC_1.19.1-1.19.2
-- do-a-barrel-roll-2.6.2+1.19.2-forge
-- Delightful-1.19.2-3.2.4
-- Decorative Blocks-forge-1.19.2-3.0.0
-- curios-forge-1.19.2-5.1.3.0
-- cullleaves-forge-3.0.1
-- ctov-3.1.8
-- crittersandcompanions-1.19.2-1.1.2
-- creeperoverhaul-2.0.9-forge
-- CreativeCore_FORGE_v2.9.3_mc1.19.2
-- create-stuff-additions1.19.2_v2.0.2c
-- create-ruins-1.19.2-1.0.0
-- createdeco-1.3.0-1.19.2
-- create-1.19.2-0.5.0.i
-- create_misc_and_things_1.19.2_2.0
-- create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.17
-- create_crystal_clear-0.1.2e-1.19.2
-- create_central_kitchen-1.19.2-for-create-0.5.0.i-1.3.2
-- Compat-O-Plenty-1.19.2-2.0.1
-- combatroll-forge-1.1.5+1.19
-- ColorfulAzaleas-forge-1.19.2-2.2.1
-- collective-1.19.2-6.53
-- cloth-config-8.2.88-forge
-- citadel-2.1.3-1.19
-- chalk-1.19-1.4.0
-- catalogue-1.7.0-1.19.2
-- canary-mc1.19.2-0.1.9
-- Boss Music Mod 1.19
-- Bookshelf-Forge-1.19.2-16.2.18
-- blueprint-1.19.2-6.1.2
-- BiomesOPlenty-1.19.2-17.1.2.544
-- bettercombat-forge-1.6.2+1.19
-- badpackets-forge-0.2.1
-- auudio_forge_1.0.3_MC_1.19-1.19.2
-- AutoRegLib-1.8.2-55
-- architectury-6.5.77-forge
-- appleskin-forge-mc1.19-2.4.2
-- another_furniture-forge-2.1.2-1.19.2
-- AmbientSounds_FORGE_v5.2.13_mc1.19.2
-- alexsmobs-1.21.1
-- Alex's Mobs Music Mod
-- Alexs Armoury v1.4.1-1.19.2
-- AI-Improvements-1.19.2-0.5.2
-- AbundantAtmosphere-1.19.2-1.2.0-beta
-- YungsExtras-1.19.2-Forge-3.1.0
-- YungsBetterStrongholds-1.19.2-Forge-3.2.0
-- YungsBetterOceanMonuments-1.19.2-Forge-2.1.0
-- YungsBetterNetherFortresses-1.19.2-Forge-1.0.5
-- YungsBetterMineshafts-1.19.2-Forge-3.2.0
-- YungsBetterDungeons-1.19.2-Forge-3.2.2
-- YungsBetterDesertTemples-1.19.2-Forge-2.2.2
-- YungsApi-1.19.2-Forge-3.8.9
-- XaerosWorldMap_1.29.5_Forge_1.19.1
-- Xaeros_Minimap_23.3.3_Forge_1.19.1
-- wthit-forge-5.15.1
-- wandering-bags-1.19.2-2.0.6
-- UndeadUnleashed-1.0.3-1.19.2
-- TravelersTitles-1.19.2-Forge-3.1.2
-- Towns-and-Towers-v.1.10-_FORGE-1.19.2_
-- toms_storage-1.19-1.5.4
-- the-conjurer-1.19.2-1.1.5
-- testworld-1.0.0
-- TerraBlender-forge-1.19.2-2.0.1.136
-- supplementaries-1.19.2-2.3.4
-- structure_gel-1.19.2-2.7.2
-- Steam_Rails-1.19.2-1.1.1
-- starterkit-1.19.2-5.2
-- starlight-1.1.1+forge.cf5b10b
-- spiderstpo-1.19.2-2.0.4
-- soundphysics-forge-1.19.2-1.0.18
-- Sorcerium 1.1.3 (1.19.2)
-- sophisticatedcore-1.19.2-0.5.49.245
-- sophisticatedbackpacks-1.19.2-3.18.44.815
-- smoothboot(reloaded)-mc1.19.2-0.0.2
-- secondchanceforge-1.19-1.5.1
-- savage_and_ravage-1.19.2-5.0.4
-- rubidium-extra-0.4.17+mc1.19.2-build.71
-- rubidium-0.6.2a
-- Rhodium 1.19.2 V4.0
-- resourcefulconfig-forge-1.19.2-1.0.20
-- redstonepen-1.19.2-forge-1.2.20
-- QuarkOddities-1.18
-- Quark-3.4-397
-- PuzzlesLib-v4.3.12-1.19.2-Forge
-- Prism-1.19.1-1.0.2
-- PresenceFootsteps-1.19.2-1.6.4.1-forge
-- pluto-mc1.19.2-0.0.9
-- player-animation-lib-forge-1.0.2
-- Paxi-1.19.2-Forge-3.0.1
-- PacketSizeDoublerForge-1.0.7-1.19.x
-- oculus-mc1.19.2-1.2.8a
-- oculus-flywheel-compat-1.19.2-0.1.8-BETA
-- Nullscape_1.19.3_v1.2.1
-- NethersDelight-1.19-3.0
-- musicdr-3.0.0-hotfix
-- morevillagers-forge-1.19-4.0.3
-- More Wandering Trades 1.0.0 - 1.19.2
-- moonlight-1.19.2-2.2.29-forge
-- modelfix-1.8
-- midnightlib-forge-1.0.0
-- lightspeed-1.19.2-1.0.2
-- LegendaryTooltips-1.19.2-forge-1.4.0
-- L_Enders_Cataclysm-0.83-1.19.2
-- konkrete_forge_1.6.0_MC_1.19-1.19.2
-- KnightQuest1.2.6.Patch
-- JustEnoughResources-1.19.2-1.2.2.200
+- [Just Enough Items (JEI) Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)
+- [Item Borders - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/item-borders)
+- [Integrated API Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-api)
+- [Illuminations Forge 🔥 Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/illuminations-forge)
+- [Integrated Dungeons and Structures - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/idas)
+- [Iceberg - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/iceberg)
+- [Item Highlighter - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/item-highlighter)
+- [Healing Campfire - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/healing-campfire)
+- [GoProne Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/goprone)
+- [Geckolib - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/geckolib)
+- [Audio Extension for FancyMenu - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/audio-extension-for-fancymenu)
+- [Flywheel - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/flywheel)
+- [First-person Model - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/first-person-model)
+- [Fastload - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/fastload)
+- [Fast Leaf Decay Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
+- [Farmer's Delight - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/farmers-delight)
+- [FancyMenu - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/fancymenu)
+- [Create: Extended Cogwheels - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/extended-cogwheels)
+- [Create: Extended Flywheels Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-extended-flywheels)
+- [Every Compat (Wood Good) - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/every-compat)
+- [EntityCulling - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/entityculling)
+- [Entity Collision FPS Fix - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/entity-collision-fps-fix)
+- [Ender's Delight Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/enders-delight)
+- [Enchant With Mob - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/enchant-with-mob)
+- [Enchantment Descriptions Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
+- [Easy Magic - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/easy-magic)
+- [Easy Anvils - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/easy-anvils)
+- [Dynamic Music Updated - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/dynamic-music-updated)
+- [MmmMmmMmmMmm - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/mmmmmmmmmmmm)
+- [Droplight Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/droplight)
+- [Drippy Loading Screen - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/drippy-loading-screen)
+- [Do a Barrel Roll - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/do-a-barrel-roll)
+- [Delightful - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/delightful)
+- [Decorative Blocks Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
+- [Curios API - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/curios)
+- [Cull Leaves - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/cull-leaves)
+- [ChoiceTheorem's Overhauled Village - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/ct-overhaul-village)
+- [Critters and Companions - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/critters-and-companions)
+- [Creeper Overhaul - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/creeper-overhaul)
+- [CreativeCore - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/creativecore)
+- [Create Stuff & Additions Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions)
+- [Create: Ruins - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/create-ruins)
+- [Create Deco Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-deco)
+- [Create - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/create)
+- [Create : Misc & Things Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things)
+- [Create Enchantment Industry - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/create-enchantment-industry)
+- [Create: Crystal Clear - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/create-crystal-clear)
+- [Create Central Kitchen - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/create-central-kitchen)
+- [Compat O' Plenty - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/compatoplenty)
+- [Combat Roll - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/combat-roll)
+- [Colorful Azaleas - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/colorful-azaleas)
+- [Collective - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/collective)
+- [Cloth Config API - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/cloth-config)
+- [Citadel Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/citadel)
+- [Chalk - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/chalk-mod)
+- [Catalogue Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/catalogue)
+- [Canary - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/canary)
+- [♪ Boss Music Mod ♪ Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/boss-music-mod)
+- [Bookshelf Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
+- [Blueprint Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/blueprint)
+- [Biomes O' Plenty Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- [Better Combat - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/better-combat)
+- [bad packets - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/badpackets)
+- [Auudio - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/auudio)
+- [AutoRegLib - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/autoreglib)
+- [Architectury API - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/architectury-api)
+- [AppleSkin - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/appleskin)
+- [Another Furniture - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/another-furniture)
+- [AmbientSounds - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/ambientsounds)
+- [Alex's Mobs Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
+- [♪ Alex's Mobs EXTRA Music ♪ Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-battle-music)
+- [Alex's Armoury Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-armoury/screenshots)
+- [AI Improvements - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/ai-improvements)
+- [Abundant Atmosphere - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/abundant-atmosphere)
+- [YUNG's Extras - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/yungs-extras)
+- [YUNG's Better Strongholds - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/yungs-better-strongholds)
+- [YUNG's Better Ocean Monuments - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/yungs-better-ocean-monuments)
+- [YUNG's Better Nether Fortresses - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/yungs-better-nether-fortresses)
+- [YUNG's Better Mineshafts - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/yungs-better-mineshafts)
+- [YUNG's Better Dungeons - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/yungs-better-dungeons)
+- [YUNG's Better Desert Temples - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/yungs-better-desert-temples)
+- [YUNG's API - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/yungs-api)
+- [Xaero's World Map Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- [Xaero's Minimap Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [WTHIT - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/wthit)
+- [Wandering Bags - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/wandering-bags)
+- [Undead Unleashed! Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/undead-unleashed)
+- [Traveler's Titles - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/travelers-titles)
+- [Towns and Towers - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/towns-and-towers)
+- [Tom's Simple Storage Mod - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/toms-storage)
+- [The Conjurer Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-conjurer)
+- [Quick Test World - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/testworld)
+- [TerraBlender - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/terrablender)
+- [Supplementaries - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/supplementaries)
+- [Structure Gel API Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
+- [Create: Steam 'n' Rails Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails)
+- [Starter Kit - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/starter-kit)
+- [Starlight (Forge) - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/starlight-forge)
+- [Nyf's Spiders - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/nyfs-spiders)
+- [Sound Physics Remastered - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/sound-physics-remastered)
+- [Sorcerium - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/sorcerium)
+- [Sophisticated Core Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
+- [Sophisticated Backpacks Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+- [Smooth Boot (Reloaded) - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/smooth-boot-reloaded)
+- [Second Chance (Forge) - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/second-chance-forge)
+- [Savage & Ravage Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage)
+- [Search Mods - Modrinth](https://modrinth.com/mod/rubidium-extra)
+- [Search Mods - Modrinth](https://modrinth.com/mod/rubidium)
+- [Rhodium - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/rhodium)
+- [Resourceful Lib - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/resourceful-lib)
+- [Redstone Pen - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/redstonepen)
+- [Quark Oddities - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/quark-oddities)
+- [Quark - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/quark)
+- [Puzzles Lib - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/puzzles-lib)
+- [Prism - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/prism-lib)
+- [Presence Footsteps - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/presence-footsteps)
+- [Pluto - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/pluto)
+- [playerAnimator - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/playeranimator)
+- [Paxi - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/paxi)
+- [Packet Size Doubler (Forge) - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/packet-size-double-forge)
+- [Oculus - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/oculus)
+- [Iris & Oculus Flywheel Compat Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat)
+- [Nullscape - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/nullscape)
+- [Nether's Delight Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)
+- [Music Duration Reducer - Mods - Minecraft (cursefire.com)](https://cursefire.com/minecraft/mc-mods/music-duration-reducer)
+- [More Villagers Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-villagers)
+- [More Wandering Trades Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-wandering-trades)
+- [Moonlight Lib - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/moonlight)
+- [Model Gap Fix - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/modelfix)
+- [MidnightLib - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/midnightlib)
+- [Lightspeed - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/lightspeed)
+- [Legendary Tooltips - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/legendary-tooltips)
+- [L_Ender 's Cataclysm Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm)
+- [Konkrete - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/konkrete)
+- [Knight Quest Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/knight-quest)
+- [Just Enough Resources (JER) - Minecraft Mod (modrinth.com)](https://modrinth.com/mod/just-enough-resources-jer)
 </details>
+
+
+<details>
+<summary>What if I have low FPS?</summary>
+<br>
+
+- If you have low FPS, try disabling/removing the mod. **Sound Physics Remastered** (realistic behavior of sounds in the game). 
+- If you have low FPS, try disabling/removing the mod **Falling Leaves**.
+#### ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰↴⚠**Only for update 1.3.1**⚠↴▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+- If you have low FPS, try the following commands: 
+1. `/shimmer bloom false`<-Impact on performance: Low
+2. `/shimmer colored_light false`<-Impact on performance: High
+ 
+These instructions should help you to increase your FPS.
+ 
+</details>
+
     
-## 💽System Requirements💾
-    
-- RAM: **4-8 GB**
-- GPU: **GTX 1050 or above**
-- CPU: **i5-7500 or above**
+# 💽System Requirements💾
+### Minimum system requirements
+- OS: **Windows 7/8/10, macOS, Linux**
+- RAM: **4 GB**
+- GPU: **NVIDIA GeForce 400 Series or similar AMD card with OpenGL 4.4 support**
+- CPU: **Intel Core i3 or similar AMD processor**
+### Recommended system requirements
+- OS: **Windows 7/8/10, macOS, Linux**
+- RAM: **8 GB**
+- GPU: **NVIDIA GeForce 700 Series or similar AMD card with OpenGL 4.5 support**
+- CPU: **Intel Core i5 or similar AMD processor**
+
+If you have any questions you can contact me on Discord: **4EEZE#6261**
