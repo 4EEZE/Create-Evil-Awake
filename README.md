@@ -1,4 +1,4 @@
-![https://i.imgur.com/R17tCEn.png](https://i.imgur.com/R17tCEn.png)
+![Imgur](https://i.imgur.com/s4aXRwm.png)
 
 ---
 
